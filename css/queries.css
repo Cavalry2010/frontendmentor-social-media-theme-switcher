@@ -1,0 +1,57 @@
+@media (max-width: 26em) {
+  .container {
+    max-width: 32.5rem;
+  }
+
+  /* HEADING */
+
+  .dashboard-heading {
+    display: block;
+    padding: 3rem 0 7.5rem;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: hsl(225, 100%, 98%);
+  }
+
+  .primary-heading {
+    font-size: 2.4rem;
+  }
+
+  .dashboard-title-and-total-followers {
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #63687e;
+    max-width: 32.5rem;
+    margin: 0 auto;
+  }
+
+  .theme-switch-btn-box {
+    max-width: 32.5rem;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+    gap: 0;
+    justify-content: space-between;
+  }
+
+  /* FOLLOWERS OVERVIEW */
+
+  .dashboard-followers-overview {
+    margin-top: -4rem;
+    grid-template-columns: 1fr;
+    row-gap: 2.4rem;
+  }
+
+  .follower-stats-box div {
+    margin-bottom: 1.75rem;
+  }
+
+  /* TODAY OVERVIEW */
+
+  .secondary-heading {
+    margin-bottom: 2.5rem;
+  }
+
+  .overview-today-stats {
+    grid-template-columns: 1fr;
+    row-gap: 1.6rem;
+  }
+}
