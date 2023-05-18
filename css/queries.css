@@ -6,11 +6,14 @@
   /* HEADING */
 
   .dashboard-heading {
-    display: block;
     padding: 3rem 0 7.5rem;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     background-color: hsl(225, 100%, 98%);
+  }
+
+  .heading-box {
+    display: block;
   }
 
   .primary-heading {

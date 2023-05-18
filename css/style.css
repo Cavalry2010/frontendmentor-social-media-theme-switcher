@@ -23,15 +23,15 @@ body {
 /* HEADING */
 
 .dashboard-heading {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   padding: 4rem 0 15rem;
   background-color: #f5f7ff;
   transition: background-color 0.3s;
 }
 
-.dashboard-title-and-total-followers {
+.heading-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   max-width: 111rem;
   margin: 0 auto;
 }
@@ -52,8 +52,6 @@ body {
 }
 
 .theme-switch-btn-box {
-  max-width: 111rem;
-  margin: 0 auto;
   font-size: 1.4rem;
   font-weight: 700;
   color: #aeb3cb;

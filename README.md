@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Social Media Dashboard with Theme Switcher](https://social-media-dash-theme-switch-alejandro.netlify.app)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-social-media-dashboard-with-theme-switcher-and-transitions-WU_K9YFo8j)
+- Live Site URL: [Social Media Dashboard with Theme Switcher](https://social-media-dash-theme-switch-alejan.netlify.app)
 
 ## My process
 
